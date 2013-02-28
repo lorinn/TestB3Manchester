@@ -1,7 +1,8 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"> 
+<!-- test for gitHub -->
 <html>
 <head>
-<title>Home page</title>
+<title>MyUniTrader Home page</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link rel="stylesheet" type="text/css" href="style.css">
 </head>
@@ -29,7 +30,7 @@
           </tr>
           <tr>
             <td>&nbsp;</td>
-            <td><input type="submit" name="login_btn" value="Login" /></td>
+            <td><button type="submit" name="login_btn" />Log in</button></td>
           </tr>
         </table>
       </form>
@@ -84,7 +85,7 @@
 <div class="prod_box_left">
         	<div class="top_prod_box"></div>
             <div class="center_prod_box">            
-                 <div class="product_title"><a href="details.html">Asus</a></div>
+                 <div class="product_title"><a href="details.html">Items wishing</a></div>
                  <div class="product_img"><a href="details.html"><img border="0" title="" alt="" src="images/laptop.gif"></a></div>
                  <div class="prod_price"><span class="price">270$</span></div>                        
             </div>
@@ -94,7 +95,7 @@
 <div class="prod_box_left">
         	<div class="top_prod_box"></div>
             <div class="center_prod_box">            
-                 <div class="product_title"><a href="details.html">Asus</a></div>
+                 <div class="product_title"><a href="details.html">Something</a></div>
                  <div class="product_img"><a href="details.html"><img border="0" title="" alt="" src="images/laptop.gif"></a></div>
                  <div class="prod_price"><span class="price">270$</span></div>                        
             </div>
@@ -104,7 +105,7 @@
 <div class="prod_box_left">
         	<div class="top_prod_box"></div>
             <div class="center_prod_box">            
-                 <div class="product_title"><a href="details.html">Asus</a></div>
+                 <div class="product_title"><a href="details.html">Something</a></div>
                  <div class="product_img"><a href="details.html"><img border="0" title="" alt="" src="images/laptop.gif"></a></div>
                  <div class="prod_price"><span class="price">270$</span></div>                        
             </div>
@@ -130,9 +131,8 @@
     
     <div class="index_box">
     
-    <!-- A Row -->
-    
-      
+    <!-- Feature row -->
+          
 	<div class="index_box_body">
 	<h2>Featured</h2>
 <div class="prod_box">
@@ -144,6 +144,7 @@
             </div>
             <div class="bottom_prod_box"></div>             
 </div>
+
 <div class="prod_box">
         	<div class="top_prod_box"></div>
             <div class="center_prod_box">            
@@ -153,6 +154,7 @@
             </div>
             <div class="bottom_prod_box"></div>             
 </div>
+
 <div class="prod_box">
         	<div class="top_prod_box"></div>
             <div class="center_prod_box">            
@@ -162,6 +164,7 @@
             </div>
             <div class="bottom_prod_box"></div>             
 </div>
+
 <div class="prod_box">
           <div class="top_prod_box"></div>
             <div class="center_prod_box">            
@@ -171,84 +174,19 @@
             </div>
             <div class="bottom_prod_box"></div>             
 </div>
-	</div>
-    </div>
 
-	<!-- A Row -->
 
-      
-	<div class="index_box_body">
-	<h2>Popular</h2>
-<div class="prod_box">
-        	<div class="top_prod_box"></div>
-            <div class="center_prod_box">            
-                 <div class="product_title"><a href="details.html">Asus</a></div>
-                 <div class="product_img"><a href="details.html"><img border="0" title="" alt="" src="images/laptop.gif"></a></div>
-                 <div class="prod_price"><span class="price">270$</span></div>                        
-            </div>
-            <div class="bottom_prod_box"></div>             
-</div>
-<div class="prod_box">
-        	<div class="top_prod_box"></div>
-            <div class="center_prod_box">            
-                 <div class="product_title"><a href="details.html">Iphone</a></div>
-                 <div class="product_img"><a href="details.html"><img border="0" title="" alt="" src="images/iphone.jpeg"></a></div>
-                 <div class="prod_price"><span class="price">640$</span></div>                        
-            </div>
-            <div class="bottom_prod_box"></div>             
-</div>
-<div class="prod_box">
-        	<div class="top_prod_box"></div>
-            <div class="center_prod_box">            
-                 <div class="product_title"><a href="details.html">Ipad</a></div>
-                 <div class="product_img"><a href="details.html"><img border="0" title="" alt="" src="images/ipad.png"></a></div>
-                 <div class="prod_price"><span class="price">20$</span></div>                        
-            </div>
-            <div class="bottom_prod_box"></div>             
-</div>
-<div class="prod_box">
-          <div class="top_prod_box"></div>
-            <div class="center_prod_box">            
-                 <div class="product_title"><a href="details.html">GPS</a></div>
-                 <div class="product_img"><a href="details.html"><img border="0" title="" alt="" src="images/gps.png"></a></div>
-                 <div class="prod_price"><span class="price">70$</span></div>                        
-            </div>
-            <div class="bottom_prod_box"></div>             
-</div>
 	</div>
+	<hr></br></br>
+	<!-- End Feature row -->
 	
-	<!-- A Row -->
+<!-- 2 column -->	
+<div class="buy_sell">
 
-      
-	<div class="index_box_body">
-	<h2>Hello</h2>
-<div class="prod_box">
-        	<div class="top_prod_box"></div>
-            <div class="center_prod_box">            
-                 <div class="product_title"><a href="details.html">Asus</a></div>
-                 <div class="product_img"><a href="details.html"><img border="0" title="" alt="" src="images/laptop.gif"></a></div>
-                 <div class="prod_price"><span class="price">270$</span></div>                        
-            </div>
-            <div class="bottom_prod_box"></div>             
-</div>
-<div class="prod_box">
-        	<div class="top_prod_box"></div>
-            <div class="center_prod_box">            
-                 <div class="product_title"><a href="details.html">Iphone</a></div>
-                 <div class="product_img"><a href="details.html"><img border="0" title="" alt="" src="images/iphone.jpeg"></a></div>
-                 <div class="prod_price"><span class="price">640$</span></div>                        
-            </div>
-            <div class="bottom_prod_box"></div>             
-</div>
-<div class="prod_box">
-        	<div class="top_prod_box"></div>
-            <div class="center_prod_box">            
-                 <div class="product_title"><a href="details.html">Ipad</a></div>
-                 <div class="product_img"><a href="details.html"><img border="0" title="" alt="" src="images/ipad.png"></a></div>
-                 <div class="prod_price"><span class="price">20$</span></div>                        
-            </div>
-            <div class="bottom_prod_box"></div>             
-</div>
+<!-- column1 -->
+<div class="column1">
+<h2>Recently Requested</h2>
+
 <div class="prod_box">
           <div class="top_prod_box"></div>
             <div class="center_prod_box">            
@@ -258,11 +196,97 @@
             </div>
             <div class="bottom_prod_box"></div>             
 </div>
-	</div>
+
+
+<div class="prod_box">
+          <div class="top_prod_box"></div>
+            <div class="center_prod_box">            
+                 <div class="product_title"><a href="details.html">GPS</a></div>
+                 <div class="product_img"><a href="details.html"><img border="0" title="" alt="" src="images/gps.png"></a></div>
+                 <div class="prod_price"><span class="price">70$</span></div>                        
+            </div>
+            <div class="bottom_prod_box"></div>             
+</div>
+
+<div class="prod_box">
+          <div class="top_prod_box"></div>
+            <div class="center_prod_box">            
+                 <div class="product_title"><a href="details.html">GPS</a></div>
+                 <div class="product_img"><a href="details.html"><img border="0" title="" alt="" src="images/gps.png"></a></div>
+                 <div class="prod_price"><span class="price">70$</span></div>                        
+            </div>
+            <div class="bottom_prod_box"></div>             
+</div>
+
+<div class="prod_box">
+          <div class="top_prod_box"></div>
+            <div class="center_prod_box">            
+                 <div class="product_title"><a href="details.html">GPS</a></div>
+                 <div class="product_img"><a href="details.html"><img border="0" title="" alt="" src="images/gps.png"></a></div>
+                 <div class="prod_price"><span class="price">70$</span></div>                        
+            </div>
+            <div class="bottom_prod_box"></div>             
+</div>
+
+</div>
+<!-- end column1 -->
+
+<!-- column2 -->
+<div class="column2">
+<h2>Recently Posted</h2>
+
+<div class="prod_box">
+          <div class="top_prod_box"></div>
+            <div class="center_prod_box">            
+                 <div class="product_title"><a href="details.html">GPS</a></div>
+                 <div class="product_img"><a href="details.html"><img border="0" title="" alt="" src="images/gps.png"></a></div>
+                 <div class="prod_price"><span class="price">70$</span></div>                        
+            </div>
+            <div class="bottom_prod_box"></div>             
+</div>
+
+<div class="prod_box">
+          <div class="top_prod_box"></div>
+            <div class="center_prod_box">            
+                 <div class="product_title"><a href="details.html">GPS</a></div>
+                 <div class="product_img"><a href="details.html"><img border="0" title="" alt="" src="images/gps.png"></a></div>
+                 <div class="prod_price"><span class="price">70$</span></div>                        
+            </div>
+            <div class="bottom_prod_box"></div>             
+</div>
+
+<div class="prod_box">
+          <div class="top_prod_box"></div>
+            <div class="center_prod_box">            
+                 <div class="product_title"><a href="details.html">GPS</a></div>
+                 <div class="product_img"><a href="details.html"><img border="0" title="" alt="" src="images/gps.png"></a></div>
+                 <div class="prod_price"><span class="price">70$</span></div>                        
+            </div>
+            <div class="bottom_prod_box"></div>             
+</div>
+
+<div class="prod_box">
+          <div class="top_prod_box"></div>
+            <div class="center_prod_box">            
+                 <div class="product_title"><a href="details.html">GPS</a></div>
+                 <div class="product_img"><a href="details.html"><img border="0" title="" alt="" src="images/gps.png"></a></div>
+                 <div class="prod_price"><span class="price">70$</span></div>                        
+            </div>
+            <div class="bottom_prod_box"></div>             
+</div>
+
+</div>
+<!-- end column2 -->
+
+</div>
+<!-- End 2 column -->
 	
+    </div>	
     </div>
 
   <!-- Main body for page ends -->
+  
+  
   <!-- Footer information -->
    <div class="footer">
    
@@ -271,7 +295,6 @@
         &copy; 2012 by Group B3.<br/> 
         School of Computer Science.<br/>
         University of Manchester.
-        2012
         </div>
         
         <div class="right_footer">
